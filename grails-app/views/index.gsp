@@ -104,6 +104,7 @@
 		</div>
 		<div id="page-body" role="main">
 			<h1>Welcome to Grails</h1>
+			This is my first application deployed into CloudBees
 
 
 			<div id="controller-list" role="navigation">
