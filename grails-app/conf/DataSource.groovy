@@ -26,7 +26,7 @@ environments {
         production {
           dataSource {
             dbCreate = "update"
-            jndiName= "jdbc/dorisa_db"
+            jndiName= "dorisa_db"
             pooled = true
             properties {
              maxActive = -1
